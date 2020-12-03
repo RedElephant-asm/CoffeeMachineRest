@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="446340d8-f93d-49d1-adf2-b316b847dbe4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachineApp/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CoffeeMachineApp" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l4W280ZZ8051VvtTVO6zpRnhrx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CoffeeMachineApp" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CoffeeMachineRestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.CoffeeMachineRestApp.CoffeeMachineRestApplication" />
+      <module name="CoffeeMachineRestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.CoffeeMachineRestApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoffeeMachineRestApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="446340d8-f93d-49d1-adf2-b316b847dbe4" name="Default Changelist" comment="" />
+      <created>1606856633169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606856633169</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../CoffeeMachineApp" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1606863507447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606863507447" />
+    <state x="740" y="228" key="FileChooserDialogImpl" timestamp="1606934537061">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="228" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606934537061" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1606865270432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606865270432" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1606865270432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606865270432" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1606865270432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606865270432" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1606865270432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606865270432" />
+    <state x="625" y="217" key="NewModule_or_Project.wizard" timestamp="1606934548231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="217" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606934548231" />
+    <state x="440" y="93" key="SettingsEditor" timestamp="1606936822474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606936822474" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1606936854412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606936854412" />
+  </component>
+</project>
