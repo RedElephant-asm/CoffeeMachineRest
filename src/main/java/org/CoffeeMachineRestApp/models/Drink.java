@@ -14,6 +14,12 @@ public class Drink {
     @Column(name = "name")
     private String name;
 
+    @Column(name = "portionCount")
+    private Integer portionCount;
+
+    @Column(name = "price")
+    private Integer price;
+
     public Drink(){}
 
     public Drink(Integer id, String name) {
@@ -35,5 +41,21 @@ public class Drink {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public Integer getPortionCount() {
+        return portionCount;
+    }
+
+    public void setPortionCount(Integer portionCount) {
+        this.portionCount = portionCount;
+    }
+
+    public Integer getPrice() {
+        return price;
+    }
+
+    public void setPrice(Integer price) {
+        this.price = price;
     }
 }

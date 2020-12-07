@@ -15,4 +15,6 @@ public class ControllerHandler {
     public Iterable<Drink> getAll(){
         return repository.findAll();
     }
+
+    public Drink getDrink(Integer drinkId){return repository.findById(drinkId).get();}
 }
