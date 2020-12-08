@@ -17,4 +17,6 @@ public class ControllerHandler {
     }
 
     public Drink getDrink(Integer drinkId){return repository.findById(drinkId).get();}
+
+    public void updateDrink(Drink drink){repository.save(drink);}
 }
