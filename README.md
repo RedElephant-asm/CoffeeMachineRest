@@ -11,6 +11,11 @@ backend-частью проекта "CoffeeMachineApp" и предоставля
 ## Разграничение доступа
 Для ограничения доступа сервис использует CORS.
 
+## Взаимодействие сервиса с БД
+![markdown logo](./mdfiles/images/logos/hibernate-logo.jpeg)</br>
+Для взаимодействия с базой данных применяется `Hibernate API`. 
+Скрипт, который воспроизводит БД : `...\CoffeeMachineRest\DB.sql`.
+
 ## Запуск проекта
 ![markdown logo](./mdfiles/images/logos/maven-logo.png)</br>
 Так как у проекта есть POM, он может быть запущен с помощью
